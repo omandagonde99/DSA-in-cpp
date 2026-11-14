@@ -9,7 +9,6 @@ public:
             else{
                 nums[i]=nums[j];
                 i++;
-
                 }
         }
         return i;
